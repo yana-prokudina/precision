@@ -10,3 +10,7 @@ public class Main {
     }
 }
 ```
+
+Run code result:
+
+![run result](proposed code.png)
