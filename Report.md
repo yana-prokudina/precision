@@ -6,7 +6,7 @@
 
 ## Результаты
 
-Обнаруженный дефект: [Issue 1]()
+Обнаруженный дефект: [Issue 1](https://github.com/yana-prokudina/precision/issues/1)
 
 ## Общие рекомендации
 
