@@ -13,4 +13,4 @@ public class Main {
 
 Run code result:
 
-![run result](file:///Users/Yana/Pictures/Monosnap/proposed%20code.png)
+![run result](proposed code.png)
