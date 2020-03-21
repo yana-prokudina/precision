@@ -13,4 +13,4 @@ public class Main {
 
 Run code result:
 
-![run result](proposed code.png)
+![run result](https://github.com/yana-prokudina/precision/blob/master/proposed%20code.png)
