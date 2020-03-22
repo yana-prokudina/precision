@@ -2,7 +2,7 @@
 
 ## Краткое описание
 
-Код Precision был запущен и протестирован в среде IntelliJ IDEA.
+Код [Precision](https://github.com/yana-prokudina/precision/blob/master/Main.java) был запущен и протестирован в среде IntelliJ IDEA.
 
 ## Результаты
 
