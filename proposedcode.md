@@ -1,16 +1,19 @@
 ```
-import java.util.Locale;
+import java.math.BigDecimal;
 
 public class Main {
-    public static void main(final String[] args) {
-        final double regularBonus = 0.3;
-        final double specialBonus = 0.6;
-        final double totalBonus = regularBonus + specialBonus;
-        System.out.printf(Locale.US,"%.1f",totalBonus);
-    }
+
+    public static void main(String[] args) {
+
+    BigDecimal regularbonus = new BigDecimal("0.3");
+    BigDecimal specialbonus = new BigDecimal("0.6");
+    BigDecimal total = regularbonus.add(specialbonus); // сложение
+        
+        System.out.println(total); }
+        
 }
 ```
 
 Run code result:
 
-![run result](https://github.com/yana-prokudina/precision/blob/master/proposed%20code.png)
+![run result](/Users/Yana/precision/proposed code bd.png)
